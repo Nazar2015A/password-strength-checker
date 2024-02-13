@@ -1,4 +1,4 @@
-password-checker-angular.netlify.app
+https://password-checker-angular.netlify.app/
 
 # PasswordStrengthChecker
 
