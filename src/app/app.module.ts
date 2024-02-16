@@ -8,11 +8,13 @@ import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatIconModule } from '@angular/material/icon';
 import { MatTooltipModule } from '@angular/material/tooltip';
+import { PasswordInputComponent } from './password-strength/password-Input/password-input.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PasswordStrengthComponent,
+    PasswordInputComponent,
   ],
   imports: [
     BrowserModule,
